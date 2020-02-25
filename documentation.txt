@@ -1,0 +1,12 @@
+Ambiente de desarrollo:
+- VSC
+- Terminal
+- Postman / Insomnia
+
+Modulos que se descargaron:
+- Express: es un framework de Node que nos  permite escribir codigo del servidor de una manera sencilla.
+- Morgan: es un modelo que nos permite ver por consola las peticiones que van llegando
+// para utilizarlos es necesario requerirlos desde el codigo.
+
+
+Carpeta SRC/ contiene todo el codigo de nuestra aplicacion.
